@@ -17,7 +17,7 @@ import re
 import io
 from collections import Counter
 from wordcloud import WordCloud, STOPWORDS
-streamlit-lottie
+
 # ─────────────────────────────────────────────
 # CONFIGURACIÓN
 # ─────────────────────────────────────────────
